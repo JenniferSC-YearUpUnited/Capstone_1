@@ -1,3 +1,3 @@
 # Capstone_1
-**This project calls on my ability to read data and extract useful information using my SQL skills. I built a databse that holds data I used to put together a buisness idea and basic market research data. I will use those insights on the information to tell a compelling story for my business.** 
+**In this project, I use my SQL skills to analyze data and find useful insights for my business idea. I created a database that holds important information about my concept and basic market research. With this data, I aim to tell a clear story about my business and show its potential. My focus is on making the information easy to understand and useful for decision-making.**
 
