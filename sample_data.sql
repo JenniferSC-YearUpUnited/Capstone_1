@@ -29,16 +29,15 @@ SELECT * FROM scents;
 
 
 ## ADDING RECORDS TO PURCHASES ## 
-INSERT INTO purchases (purchaseid, customerid, purchasedate,scentid,bags)
-VALUES (1, 1, "2024-09-01", 2, 4);
+INSERT INTO purchases
+VALUES (1, 1, "2024-09-01", 2, 4, "2,5");
 
-INSERT INTO purchases (customerid, purchasedate,scentid,bags)
-VALUES (3, "2024-09-18", 4, 1);
+INSERT INTO purchases (customerid, purchasedate,scentid,bags,bagdesc)
+VALUES (3, "2024-09-18", 4, 1, "4,2,5"),
+(1, "2024-10-02", 1, 2, "1,3"),
+(5, "2024-10-08", 5, 3, "5,1"),
+(2, "2024-10-11", 3, 5, "3");
 
-INSERT INTO purchases (customerid, purchasedate,scentid,bags)
-VALUES (1, "2024-10-02", 1, 2),
-(5, "2024-10-08", 5, 3),
-(2, "2024-10-11", 3, 5);
 
 ## SEE ALL COLUMNS ## 
 SELECT * FROM purchases;

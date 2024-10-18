@@ -21,7 +21,8 @@ purchaseid INT PRIMARY KEY AUTO_INCREMENT,
 customerid INT,
 purchasedate DATE,
 scentid INT,
-bags INT
+bags INT,
+bagdesc VARCHAR(200)
 );
 
 ## ADDING FOREIGN KEY 1 CONSTRAINT AFTER CREATING TABLE 1##
@@ -32,6 +33,9 @@ REFERENCES customers(customerid);
 ALTER TABLE purchases
 ADD CONSTRAINT fk2 FOREIGN KEY (scentid)
 REFERENCES scents(scentid);
+
+
+
 
 ## SEE ALL COLUMNS FOR TABLE2##
 SELECT * FROM purchases;
