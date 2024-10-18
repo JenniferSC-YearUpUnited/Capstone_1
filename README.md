@@ -1,3 +1,3 @@
 # Capstone_1
-**In this project, I use my SQL skills to analyze data and find useful insights for my business idea. I created a database that holds important information about my concept and basic market research. With this data, I aim to tell a clear story about my business and show its potential. My focus is on making the information easy to understand and useful for decision-making.**
 
+**In this project, I’m using my SQL skills to analyze data and gain insights for my business, JenSprinkleSPectacles. I built a database that contains details about how my business is structured, how it operates, and some basic market research on soybeans, which is the main ingredient in my product. With this data, I want to clearly showcase my business and its potential. My goal is to make the information easy to understand and helpful for making decisions.**
