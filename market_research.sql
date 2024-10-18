@@ -1,4 +1,4 @@
-## select specific table ## 
+## select specific datbase ## 
 USE market_research; 
 
 ## inital query to retrieve all columns from table ## 
