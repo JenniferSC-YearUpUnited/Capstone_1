@@ -1,3 +1,6 @@
+## select specific table ## 
+USE market_research; 
+
 ## inital query to retrieve all columns from table ## 
 SELECT * FROM market_research.farmarea; 
 
